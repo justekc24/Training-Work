@@ -1,6 +1,6 @@
-|--------|
-|Projet 1| : #UTILISATION DU CAPTEUR NPK AVEC ARDUINO
-|--------|
+|----------------------------------------------------|
+|Projet 1 : #UTILISATION DU CAPTEUR NPK AVEC ARDUINO |
+|----------------------------------------------------|
 
 1-Qu'est ce que le capteur NPK
 2- comment utiliser le capteur NPK avec arduino
@@ -13,6 +13,9 @@
 
 4- Exemple de code Arduino
 Dans cette section, nous allons parcourir un exemple de code Arduino pour tester le module capteur NPK.
+---Trouvez le code arduino dans le dossier NPK
+---Installez les librairies inclues dans le code 
+---connectez votre arduino pour le téléversement 
 
 
 
