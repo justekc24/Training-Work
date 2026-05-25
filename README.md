@@ -27,9 +27,9 @@ Les capteurs NPK peuvent être utilisés pour surveiller activement les informat
 
 4- Exemple de code Arduino
 Dans cette section, nous allons parcourir un exemple de code Arduino pour tester le module capteur NPK.
----Trouvez le code arduino dans le dossier NPK
----Installez les librairies inclues dans le code 
----connectez votre arduino pour le téléversement 
+--->Trouvez le code arduino dans le dossier NPK.
+--->Installez les librairies inclues dans le code .
+--->connectez votre arduino pour le téléversement .
 
 
 
